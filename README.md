@@ -1,2 +1,0 @@
-# ReduxThunkMongoToDoApp
-Created with CodeSandbox
